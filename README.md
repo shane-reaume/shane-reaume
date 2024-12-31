@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hello 👋, I'm Shane</h1>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" /><br>
-  <a href="https://shaneofalltrades.com"><img src="https://shaneofalltrades.com/images/shaneofalltrades-github.png" alt="ShaneOfAllTrades" /></a><br>
+  <a href="https://shaneofalltrades.com"><img src="https://shaneofalltrades.com/images/shaneofalltrades-github.png" alt="ShaneOfAllTrades" width="300" /></a><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane-reaume&layout=compact&theme=radical" /><br>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shane-reaume&theme=radical" />
 </div>
 
