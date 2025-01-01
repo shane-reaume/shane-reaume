@@ -2,10 +2,7 @@
   <h1>Hello 👋, I'm Shane</h1>
   <div>
     <a href="https://shaneofalltrades.com"><img src="https://shaneofalltrades.com/images/shaneofalltrades-github.png" alt="ShaneOfAllTrades" width="650" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane-reaume&layout=compact&theme=radical" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shane-reaume&theme=radical" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane-reaume&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
   </div>
 
   <h2>🔭🌱 Current Goals:</h2>
