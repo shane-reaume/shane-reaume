@@ -14,7 +14,8 @@
   <a href="https://www.linkedin.com/in/shanereaume/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br>
   <a href="https://stackoverflow.com/users/851753/shane"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a><br>
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" /><br>
+  <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" /><br> -->
+  <img src="https://raw.githubusercontent.com/shane-reaume/shane-reaume/output/snake.svg" alt="Snake animation" /><br>
 </div>
 
 # 💻 Tech Stack:
